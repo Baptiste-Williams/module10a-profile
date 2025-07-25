@@ -12,4 +12,5 @@ This is a React project where I made a profile card for someone special. It show
 I built this for Brigitte Williams, someone I care about. It’s not just coding — it’s telling her story in a simple way.
 
 ## Screenshot
-![alt text](image-1.png)
+<img width="1910" height="1078" alt="image" src="https://github.com/user-attachments/assets/8a07062d-3743-4fd4-9f07-de7dc274d1a1" />
+
